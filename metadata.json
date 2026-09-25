@@ -1,0 +1,6 @@
+{
+  "name": "DocuGemini - Document Reader & AI Intelligence",
+  "description": "Split-screen PDF and document reader with instant screen capture sharing into Gemini AI chat, live token quota tracking, analytics dashboard, and dynamic API settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
